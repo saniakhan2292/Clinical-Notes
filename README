@@ -1,0 +1,10 @@
+# Commands to add and push files to repo
+git add <name of a file>
+git commit -m "any message"
+git push
+
+# Basic Linux Commands
+cd   --> Change directory      				cd ~/Desktop
+ls   --> list 		       				ls 
+pwd  --> present working directory 			pwd	
+cp   --> copying files from one place to another 	cp <path to file you want to copy>  <path to where it should be copied>   cp ~/Downloads/test.txt ~/Desktop/Clinical
